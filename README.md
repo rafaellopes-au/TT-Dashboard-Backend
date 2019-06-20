@@ -1,4 +1,4 @@
 # TT Dashboard Backend
 
 ## Integration
-TSheets API
+TSheets API - https://tsheetsteam.github.io/api_docs/
